@@ -4,6 +4,7 @@
 This project focuses on solving a ticket pricing optimization problem for a concert in Madrid. Using optimization techniques such as linear programming and mixed-integer programming (MIP), the goal is to determine the optimal ticket prices that maximize revenue while adhering to constraints like seating capacity, ticket demand, and pricing policies.
 
 This project has been made in collaboration with [Miguel Fernández Lara](https://github.com/mifer29)
+
 ---
 
 ## Table of Contents
